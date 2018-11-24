@@ -16,4 +16,5 @@ The Task is to add your name to the list of members below<br/>
 # MOIC'19 IT committee
 <ol>
     <li>Omar Atta</li>
+    <li>Atef Magdy</li>
 </ol>
